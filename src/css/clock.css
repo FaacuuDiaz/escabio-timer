@@ -1,0 +1,17 @@
+.Countdown-title{
+    font-size: 100px;;
+    color: aliceblue;
+}
+
+.Countdown-date{
+    font-size: 50px;;
+    color: aliceblue;
+}
+
+.Clock{
+    color: white;
+    font-size: 80px;
+}
+.Clock-day{
+    margin-left: 70px;
+}
