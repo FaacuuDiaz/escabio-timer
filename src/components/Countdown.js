@@ -9,7 +9,7 @@ class Countdown extends Component {
         super(props);
         this.state = { 
             deadline: 'March, 12, 2019',
-            time:'12:00',
+            time:'12:00:00',
             date: new Date(), 
         };
    }
